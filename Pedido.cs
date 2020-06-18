@@ -1,6 +1,6 @@
 using System;
 
-class Pedido : Cliente
+class Pedido 
 {
     public string Itens { get; set; }
 

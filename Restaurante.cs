@@ -1,6 +1,6 @@
 using System;
 
-class Restaurante : Cliente
+class Restaurante 
 {
     public string NomeFantasia { get; set; }
 
