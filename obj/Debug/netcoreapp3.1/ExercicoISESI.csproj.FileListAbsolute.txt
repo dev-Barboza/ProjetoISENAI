@@ -1,0 +1,13 @@
+C:\Users\maheu\Documents\ExercicoISESI\bin\Debug\netcoreapp3.1\ExercicoISESI.exe
+C:\Users\maheu\Documents\ExercicoISESI\bin\Debug\netcoreapp3.1\ExercicoISESI.deps.json
+C:\Users\maheu\Documents\ExercicoISESI\bin\Debug\netcoreapp3.1\ExercicoISESI.runtimeconfig.json
+C:\Users\maheu\Documents\ExercicoISESI\bin\Debug\netcoreapp3.1\ExercicoISESI.runtimeconfig.dev.json
+C:\Users\maheu\Documents\ExercicoISESI\bin\Debug\netcoreapp3.1\ExercicoISESI.dll
+C:\Users\maheu\Documents\ExercicoISESI\bin\Debug\netcoreapp3.1\ExercicoISESI.pdb
+C:\Users\maheu\Documents\ExercicoISESI\obj\Debug\netcoreapp3.1\ExercicoISESI.csprojAssemblyReference.cache
+C:\Users\maheu\Documents\ExercicoISESI\obj\Debug\netcoreapp3.1\ExercicoISESI.csproj.CoreCompileInputs.cache
+C:\Users\maheu\Documents\ExercicoISESI\obj\Debug\netcoreapp3.1\ExercicoISESI.AssemblyInfoInputs.cache
+C:\Users\maheu\Documents\ExercicoISESI\obj\Debug\netcoreapp3.1\ExercicoISESI.AssemblyInfo.cs
+C:\Users\maheu\Documents\ExercicoISESI\obj\Debug\netcoreapp3.1\ExercicoISESI.dll
+C:\Users\maheu\Documents\ExercicoISESI\obj\Debug\netcoreapp3.1\ExercicoISESI.pdb
+C:\Users\maheu\Documents\ExercicoISESI\obj\Debug\netcoreapp3.1\ExercicoISESI.genruntimeconfig.cache
